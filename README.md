@@ -1,2 +1,5 @@
 # hello-world
-just another repository
+
+Pozdravljeni,
+
+Sem Dobrovnik Špela.
